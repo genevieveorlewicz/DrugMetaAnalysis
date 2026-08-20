@@ -1,4 +1,4 @@
 # DrugMetaAnalysis
 
 
-not finishied
+not finished
