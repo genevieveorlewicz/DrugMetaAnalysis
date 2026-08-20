@@ -1,11 +1,5 @@
-
-
-
-
-
-
 #This is code that provides functions for aligning our differential expression results across datasets
-#Megan Hagenauer July 25 2024
+#Genevieve Orlewicz July 25 2026 --> July 28 2026
 
 #Goals:
 #Each dataset has differential expression results from a slightly different list of genes
