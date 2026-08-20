@@ -1,5 +1,5 @@
 #Example code for importing Gemma's differential expression results for our screened datasets
-#Megan Hagenauer
+#Genevieve Orlewicz
 #2026-07-22
 
 #This is the code if we already narrowed our result sets down to only the ones that we want
