@@ -1,6 +1,6 @@
 #The fast and dirty version of processing the Gemma DE files
-#Megan Hagenauer 
-#July 23 2026
+#Genevieve Orlewicz
+#July 23 2026 --> July 30 2026
 
 #Note: by looping this instead of running it individually for each dataset the output will...
 #have columns in the Log2FC,Tstat, SE, and SV output with stupid names (either very long or uninterpretable)
