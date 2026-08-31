@@ -4,13 +4,20 @@
 
 ############
 
+Possibility of needing to run this:
+
+library(multtest)
+
+
+
+#########
+
+
 #Goals:
 #Each dataset has differential expression results from a slightly different list of genes
 #Depending on the exact tissue dissected, the sensitivity of the transcriptional profiling platform, the representation on the transcriptional profiling platform (for microarray), and the experimental conditions
 #The differential expression results from different datasets will also be in a slightly different order
 #We want to align these results so that the differential expression results from each dataset are columns, with each row representing a different gene
-
-######
 
 
 ############
