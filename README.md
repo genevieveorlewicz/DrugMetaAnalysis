@@ -1,4 +1,5 @@
 # DrugMetaAnalysis
 
+This code is all within the DrugMetaAnalysis folder.
 
-not finished
+Currently, this code is preliminary.
